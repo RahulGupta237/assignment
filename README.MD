@@ -17,4 +17,8 @@
   - This Project must have a monitoring tool for watching celery tasks queue
   - This project and it's dependencies must be work to different environments without modifying the code.
 
+
+
+## Hi i want to collaborate with you
+
   
